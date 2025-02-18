@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">COS30017Assignment3</string>
+
+    <!--  String Labels  -->
+    <string name="summaryLabel">Summary:</string>
+    <string name="ratingLabel">User Rating:</string>
+    <string name="releaseLabel">Release Date:</string>
+    <string name="completedLabel">Completed:</string>
+
+    <!--  String Fills  -->
+    <string name="placeholderString">%s</string>
+
+    <!--  Add Game Activity -->
+    <string name="gameHintName">Game Name (Must be exact!)</string>
+    <string name="addButton">Add to List</string>
+    <string name="incorrectName">Game not found. Try entering the name exactly.</string>
+    <string name="emptyName">Game not saved as it is empty.</string>
+    <string name="enterRating">Enter User Rating (Number from 0–5)</string>
+    <string name="enterCompletedLabel">Completed? (You can edit this later!)</string>
+    <string name="completeString">Complete</string>
+    <string name="incompleteString">Incomplete/Not Started</string>
+    <string name="numberHint">1.2…</string>
+    <string name="cancel">Cancel</string>
+
+    <!--  Other  -->
+    <string name="boxArtContent">The cover art of the game.</string>
+    <string name="completedContent">Whether the game has been completed or not.</string>
+    <string name="tickImageLabel">An image of a tick.</string>
+    <string name="crossImageLabel">An image of a cross.</string>
+    <string name="addImageLabel">An image of a plus symbol.</string>
+    <string name="deleteImageLabel">An image of a delete symbol.</string>
+</resources>
