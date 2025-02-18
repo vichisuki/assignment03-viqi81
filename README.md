@@ -1,6 +1,11 @@
 # COS30017 - Assignment 3 - Keeping Track
 
+## Note - Origin of this Repository
+This is a copy of an existing repository that was made private by Github Classrooms. For this reason, commit history is unavailable and will likely remain unavailable. 
+
 This repository contains my submission for Assignment 3 of COS30017 - Software Development for Mobile Devices at Swinburne University of Technology.
+
+All work contained was written by and belongs to Violet Qi.  
 
 ## API Usage
 This application takes heavy usage of [IGDB (Internet Game Database)](https://www.igdb.com/) and its [associated API](https://www.igdb.com/api). In order to use this API, you will need to have a Twitch account in order to generate a Client ID, Client Secret and Access Token. Further instructions can be found [here](https://api-docs.igdb.com/#getting-started).
